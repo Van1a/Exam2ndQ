@@ -1,5 +1,5 @@
 /*
-1. Ask for user credentials (must be in loop).
+1. Ask for user credentials (must be in loop, last & first name credentials).
 2. Choices.
 3. Business Calculation flexible enough to solve missing I, P, R, T.
 4. Exit program
